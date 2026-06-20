@@ -16,8 +16,6 @@
 
 Full stack developer with **6+ years** of experience building scalable web platforms. I specialize in the PHP ecosystem (Laravel/CodeIgniter) paired with Vue.js and AWS infrastructure. I’ve delivered end-to-end systems across **e-commerce, HRMS, real estate, and rental platforms**—owning the pipeline from normalized database architecture to frontend integration. 
 
-* **My Philosophy:** I don't just write code; I build high-performance systems to solve messy, real-world operational problems.
-* **Note on my activity:** *Because I work primarily on enterprise/commercial platforms, the majority of my daily commits are pushed to private internal repositories.*
 
 ---
 
